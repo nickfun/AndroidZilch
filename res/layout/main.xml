@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/txtPlayer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/player1_name" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.0"
+        android:text="@string/vs"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/txtPlayer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/player2_name" />
+
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/play" />
+
+    <Button
+        android:id="@+id/btnQuit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/quit" />
+
+</LinearLayout>

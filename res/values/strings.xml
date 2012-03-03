@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MenuActivity!</string>
+    <string name="app_name">ZilchProject</string>
+    <string name="player1_name">Player 1</string>
+    <string name="player2_name">Player 2</string>
+    <string name="vs">vs</string>
+    <string name="play">Play</string>
+    <string name="quit">Quit</string>
+    <string name="welcome">Play Zilch!!</string>
+    <string name="scorescreen_label">Score Screen</string>
+    <string name="scorePlayer1">1000</string>
+    <string name="scorePlayer2">1050</string>
+    <string name="continue2">Continue</string>
+    <string name="selectedPoints">Selected Points</string>
+    <string name="pointsInBank">Points in bank</string>
+    <string name="keepRolling">Keep Rolling</string>
+    <string name="endRound">End Round</string>
+
+</resources>
