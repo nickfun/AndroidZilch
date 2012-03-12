@@ -1,11 +1,3 @@
-Liscense
-========
-
-This software is released under the GNU GPL license. Its authors are:
-
-* Nicholas Funnell <nick@nick.gs>
-* Chad Lucas <cjlucas85@gmail.com>
-
 GNU GENERAL PUBLIC LICENSE
 ==========================
 
